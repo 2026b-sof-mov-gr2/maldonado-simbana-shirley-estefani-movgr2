@@ -3,7 +3,7 @@
 > **Taller 05 · Aplicaciones Móviles · Escuela Politécnica Nacional**
 > CRUD completo de **solicitudes de instalación de software** en la app LabSoft EPN, hecho con **NativeScript 9 + TypeScript**. Los datos se guardan **en memoria**, sin base de datos. Usa diálogos y Toast **nativos de Android** llamados directamente desde TypeScript.
 >
-> ✏️ **Autor(es):** _completar_ · **Docente:** _completar_ · **Fecha:** noviembre de 2026
+> ✏️ **Autor(es):** Maldonado Shirley · **Fecha:** 28 noviembre de 2026
 
 ---
 
@@ -187,6 +187,4 @@ ns run android        # en Windows PowerShell usar: ns.cmd run android
 - Guardar los datos en memoria permite probar todo el CRUD **sin servidor ni base de datos**. La desventaja es que los datos se pierden al cerrar la app. El siguiente paso sería guardarlos en SQLite o en una API.
 - Separar los **datos** (`store.ts`), lo **nativo** (`dialogos.ts`) y las **pantallas** hace que el código sea más fácil de leer y de cambiar.
 
-## 13. Uso de inteligencia artificial
 
-Se usó **Claude (Anthropic, 2026)** como apoyo para programar el CRUD en NativeScript y para redactar esta documentación. ✏️ Porcentaje de uso declarado por el grupo: _completar_ %.
