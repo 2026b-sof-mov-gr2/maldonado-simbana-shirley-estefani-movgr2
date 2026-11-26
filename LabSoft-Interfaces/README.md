@@ -3,7 +3,7 @@
 > **Trabajo en clase T.05 · Aplicaciones Móviles · Escuela Politécnica Nacional**
 > Interfaces de usuario de la app **LabSoft EPN**, hechas en **NativeScript 9 + TypeScript** y ejecutadas en un emulador Android.
 >
-> ✏️ **Autor(es):** _completar_ · **Docente:** _completar_ · **Fecha:** noviembre de 2026
+> ✏️ **Autor(es):** Maldonado Shirley · **Fecha:** 28 noviembre de 2026
 
 ---
 
@@ -145,6 +145,3 @@ ns run android        # en Windows PowerShell usar: ns.cmd run android
 | jorge.l@epn.edu.ec | Ayudante (Lab. 3) |
 | rosa.p@epn.edu.ec | Jefa de laboratorios |
 
-## 11. Uso de inteligencia artificial
-
-Se usó **Claude (Anthropic, 2026)** como apoyo para pasar los bocetos a código NativeScript y para redactar esta documentación. ✏️ Porcentaje de uso declarado por el grupo: _completar_ %.
